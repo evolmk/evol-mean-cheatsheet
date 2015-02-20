@@ -29,6 +29,10 @@ View what packages are installed globally<br>
 `npm list -g --depth=0`
 
 
+### NODEMON
+Nodemon is a utility that will monitor for any changes in your source and automatically restart your server.
+`npm install -g nodemon`
+
 #### BOWER
 
 Install Bower globally<br>
