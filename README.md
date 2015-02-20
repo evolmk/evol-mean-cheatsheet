@@ -2,7 +2,7 @@
 MEAN cheatsheet
 
 
-NODE
+<strong>NODE</strong>
 
 ////  Get Version<br>
 node --version && npm --version
@@ -16,7 +16,7 @@ npm list -g --depth=0
 
 
 
-BOWER
+<strong>BOWER</strong>
 
 ////  Install Bower globally<br>
 npm install bower -g
@@ -27,7 +27,7 @@ bower install <packagename> --save
 
 
 
-GRUNT & GULP
+<strong>GRUNT & GULP</strong>
 
 ////  Install Grunt & Gulp globally - we'll probably just use Grunt tho
 npm install -g gulp grunt-cli
