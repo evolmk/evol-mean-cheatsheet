@@ -4,7 +4,7 @@ MEAN cheatsheet
 
 NODE
 
-////  Get Version
+////  Get Version<br>
 node --version && npm --version
 
 ////  Install a package globally, add -g flag.  leave off -g to install locally to current folder
