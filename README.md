@@ -29,5 +29,5 @@ bower install <i>PACKAGENAME</i> --save
 
 <strong>GRUNT & GULP</strong>
 
-////  Install Grunt & Gulp globally - we'll probably just use Grunt tho
+////  Install Grunt & Gulp globally - we'll probably just use Grunt tho<br>
 npm install -g gulp grunt-cli
