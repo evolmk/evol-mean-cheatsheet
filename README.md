@@ -22,7 +22,7 @@ Get Version<br>
 `node --version && npm --version`
 
 Install a package globally, add -g flag.  leave off -g to install locally to current folder<br>
-`npm install <i>PACKAGENAME</i> -g`
+`npm install PACKAGENAME -g`
 
 
 View what packages are installed globally<br>
@@ -33,13 +33,14 @@ View what packages are installed globally<br>
 Nodemon is a utility that will monitor for any changes in your source and automatically restart your server.
 `npm install -g nodemon`
 
+
 #### BOWER
 
 Install Bower globally<br>
 `npm install bower -g`
 
 Install a Bower Package to your local directory and update bower.json dependencies  list <br>
-`bower install <i>PACKAGENAME</i> --save`
+`bower install PACKAGENAME --save`
 
 
 
