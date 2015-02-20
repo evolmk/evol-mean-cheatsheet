@@ -11,7 +11,7 @@ node --version && npm --version
 npm install <packagename> -g
 
 
-////  View what packages are installed globally
+//// View what packages are installed globally
 npm list -g --depth=0
 
 
