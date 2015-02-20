@@ -8,7 +8,7 @@ MEAN cheatsheet
 node --version && npm --version
 
 ////  Install a package globally, add -g flag.  leave off -g to install locally to current folder<br>
-npm install <packagename> -g
+npm install <i>PACKAGENAME</i> -g
 
 
 //// View what packages are installed globally<br>
@@ -22,7 +22,7 @@ npm list -g --depth=0
 npm install bower -g
 
 ////  Install a Bower Package to your local directory and update bower.json dependencies  list <br>
-bower install <packagename> --save
+bower install <i>PACKAGENAME</i> --save
 
 
 
