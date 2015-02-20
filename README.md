@@ -1,5 +1,4 @@
-# evol-mean-cheatsheet
-MEAN cheatsheet
+# evol's MEAN cheatsheet
 
 ## Requirements
 
@@ -15,9 +14,9 @@ MEAN cheatsheet
 3. Visit the application in your browser on port configured: [http://localhost:8080](http://localhost:8080)
 4. Enjoy!
 
+---
 
-
-### NODE
+#### NODE
 
 Get Version<br>
 `node --version && npm --version`
@@ -30,7 +29,7 @@ View what packages are installed globally<br>
 `npm list -g --depth=0`
 
 
-### BOWER
+#### BOWER
 
 Install Bower globally<br>
 `npm install bower -g`
@@ -41,7 +40,7 @@ Install a Bower Package to your local directory and update bower.json dependenci
 
 
 
-### GRUNT & GULP
+#### GRUNT & GULP
 
 ////  Install Grunt & Gulp globally - we'll probably just use Grunt tho<br>
 npm install -g gulp grunt-cli
