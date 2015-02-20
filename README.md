@@ -1,6 +1,21 @@
 # evol-mean-cheatsheet
 MEAN cheatsheet
 
+## Requirements
+
+- [node and npm](http://nodejs.org/)
+- [nodemon](http://nodemon.io/) - `npm install -g nodemon`
+- [bower](http://bower.io) - `npm install -g bower`
+- [gulp](http://gulpjs.com/) - `npm install -g gulp`
+
+## Installation Instructions
+
+1. Install your Node dependencies: `npm install`
+2. Start the application `nodemon server.js`
+3. Visit the application in your browser on port configured: [http://localhost:8080](http://localhost:8080)
+4. Enjoy!
+
+
 
 <strong>NODE</strong>
 
