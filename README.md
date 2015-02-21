@@ -47,5 +47,5 @@ Install a Bower Package to your local directory and update bower.json dependenci
 
 #### GRUNT & GULP
 
-////  Install Grunt & Gulp globally - we'll probably just use Grunt tho<br>
+Install Grunt & Gulp globally - we'll probably just use Grunt tho<br>
 npm install -g gulp grunt-cli
